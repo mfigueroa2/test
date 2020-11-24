@@ -1,1 +1,3 @@
 # test
+
+This repo contains me school projct. ....
